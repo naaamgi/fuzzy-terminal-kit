@@ -139,14 +139,6 @@ bash tests/linux.sh
 bash tests/zsh.sh
 ```
 
-검증 결과와 스크린샷 해석은 [검증 기록](docs/validation.md)에 정리한다.
-
-## GitHub 업로드
-
-저장소 이름은 `fuzzy-terminal-kit`, 기본 브랜치는 `main`으로 사용하면 블로그에 준비한 주소와 일치한다. 이 폴더 **안의 내용**을 저장소 루트에 올린다. `.gitattributes`, `.gitignore`도 포함한다. `test-results/`는 제외한다.
-
-예정 주소: `https://github.com/naaamgi/fuzzy-terminal-kit`
-
 ## 사용한 도구
 
 - [fzf](https://github.com/junegunn/fzf)
