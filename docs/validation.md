@@ -27,4 +27,4 @@ Zsh는 다운로드한 패키지를 임시 폴더에 풀어 실행했다. 모듈
 3. **usage-screenshot-03.png**: `cd /` 후 `ff`, 검색어 `/usr/share/word`. `/usr/share/dirb/wordlists/big.txt` 선택. 오른쪽의 `.bashrc`·`.ssh` 등은 워드리스트 문자열이며 실제 사용자 설정 내용을 보여주는 것이 아니다.
 4. **usage-screenshot-04.png**: `ff C:\Pentest\02_Tools\Wordlists\SecLists-master\` 실행. 선택된 경로는 `Pattern-Matching` 아래이며 끝 파일명은 잘려 있다. 오른쪽 `api_key`, `secret_key`, `token`은 파일의 패턴 문자열이며 탐지된 비밀값이 아니다.
 
-화면에 없는 기능을 캡처의 결과로 설명하지 않는다. 원본 스크린샷에는 사용자명·호스트명 등이 포함돼 있으며, 이 프로젝트에는 스크린샷을 재배포하지 않는다.
+화면에 없는 기능을 캡처의 결과로 설명하지 않는다. 원본 스크린샷은 사용자의 요청에 따라 `docs/images/`에 포함했다.
